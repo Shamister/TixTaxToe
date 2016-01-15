@@ -1,0 +1,26 @@
+
+gameOver.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playAgain
+  rotate: false
+  xy: 1, 45
+  size: 371, 56
+  orig: 371, 56
+  offset: 0, 0
+  index: -1
+yes
+  rotate: false
+  xy: 374, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+no
+  rotate: false
+  xy: 476, 9
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

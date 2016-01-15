@@ -1,0 +1,26 @@
+
+gameSelection.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+whoMovesFirst
+  rotate: false
+  xy: 1, 58
+  size: 572, 50
+  orig: 572, 50
+  offset: 0, 0
+  index: -1
+computer
+  rotate: false
+  xy: 1, 1
+  size: 440, 55
+  orig: 440, 55
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 575, 53
+  size: 440, 55
+  orig: 440, 55
+  offset: 0, 0
+  index: -1
